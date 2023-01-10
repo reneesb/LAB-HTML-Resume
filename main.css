@@ -1,0 +1,20 @@
+body {
+  background-color: azure;
+}
+h2 {
+  color: blue;
+}
+
+article {
+  padding: 40px;
+}
+
+#articleOne {
+  font-family: "Georgia";
+  border: 5px dotted salmon;
+}
+
+#articleTwo {
+  font-family: "Arial";
+  border: 3px solid plum;
+}
